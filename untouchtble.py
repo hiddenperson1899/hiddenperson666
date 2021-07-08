@@ -27,7 +27,7 @@ def menu():
 |       ||       ||       | _____| |       |   _   |  |   |    |   |  |   _   ||     |_ |    _  |
 |______| |______| |_______||_______|       |__| |__|  |___|    |___|  |__| |__||_______||___| |_|\n""" + color.red + """
      ----[    This code write by (MR.ROBOT)   ]---
-     -------[ github :""" + color.blue + """ https://github.com/hiddenpeson1899/hiddenperson666 ]-----------""" + color.End
+     -------[ github :""" + color.red + """ ]-----------""" + color.End
     web = raw_input("\nEnter Target ip: ")
     time.sleep(1)
     port = input("\nEnter Target port: ")
