@@ -14,7 +14,7 @@ class color:
     red = '\033[91m'
     green = '\033[92m'
     End = '\033[0m'
-    red = '\033[33m'
+    blue = '\033[33m'
 def menu():
     os.system("printf '\033]2;DDos-Attack\a'")
     cls()
